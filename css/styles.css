@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border: 0.5px dotted rgba(219, 100, 255, 1);
+    border: 0.8px dotted rgba(219, 100, 255, 1);
     background: url('../img/img_webdesign5.png');
 }
 
@@ -36,8 +36,12 @@ nav ul li a:hover {
     background: #d20000;
 }
 
+nav ul li a:active {
+    background: #16D8E7;
+}
+
 article p {
-    background: #E6F9F8;
+    background: #DADADA;
     padding: 20px;
 }
 
