@@ -47,6 +47,7 @@ img {
 
 footer {
     margin: 0 auto;
+    text-align: center;
 }
 
 .content, header {
@@ -54,7 +55,10 @@ footer {
     margin: 0 auto;
 }
 
-
+.video-align video {
+    display: block;
+    margin: 0 auto;
+}
 
 
 
