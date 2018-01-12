@@ -55,9 +55,12 @@ footer {
     margin: 0 auto;
 }
 
-.video-align video {
-    display: block;
+div.video-align { /* specificity: 11*/
+    width: 500px;
+    height: 281px;
+    background: #C9C9C9;
     margin: 0 auto;
+
 }
 
 
